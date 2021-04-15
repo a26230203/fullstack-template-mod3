@@ -2,7 +2,33 @@
   "resources": [
     {
       "id": 1,
-      "example": "resource"
+      "name": "Mike",
+      "email": "Mike@gmail.com",
+      "phone": "347-888-777"
+    },
+    {
+      "id": 2,
+      "name": "Nick",
+      "email": "Nick@gmail.com",
+      "phone": "347-999-777"
+    },
+    {
+      "id": 3,
+      "name": "Ivy",
+      "email": "Ivy@gmail.com",
+      "phone": "347-666-777"
+    },
+    {
+      "name": "Json",
+      "email": "Json@gmai.com",
+      "phone": " 347-972-8053",
+      "id": 4
+    },
+    {
+      "name": "Nicky ",
+      "email": "Micky@gmail.com",
+      "phone": "347-898-8989",
+      "id": 5
     }
   ]
 }
